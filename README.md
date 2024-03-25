@@ -5,3 +5,6 @@ East sensitivity analysis is a robust method employed to evaluate input variable
 
 # Support
 For further support, please reach out to [Suzan Farhang-Sardroodi](https://www.suzanfarhangsardroodi.com/).
+
+# Citation
+Please cite this page if you use the code: [https://github.com/FarhangSuzan](https://github.com/FarhangSuzan).
